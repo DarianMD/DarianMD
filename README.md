@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarianMD&repo=github-readme-stats)](https://github.com/DarianMD/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarianMD)](https://github.com/DarianMD/github-readme-stats)
